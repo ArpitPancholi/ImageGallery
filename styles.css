@@ -48,7 +48,7 @@
 
 .card:hover{
     transform: scale(1.03);
-    transition: 0.3s;
+    transition: 0.5s;
     filter: drop-shadow(0 0 10px #333);
 }
 
@@ -70,7 +70,7 @@
     opacity: 0;
     border-radius: 0 0 10px 10px;
     background-color: linear gradient(0deg,rgba(0,0,0,0.5) 0%,rgba(255,255,255), 100%);
-    transition: 0.3s;
+    transition: 0.5s;
 }
 
 .card:hover figcaption {
